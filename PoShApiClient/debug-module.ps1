@@ -1,0 +1,1 @@
+Import-Module -Verbose -Force "./bin/Debug/netstandard2.0/PoShApiClient.dll"

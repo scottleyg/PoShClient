@@ -1,0 +1,8 @@
+D:\GitRoot\PoShClient\PoShApiClient.Models\bin\Debug\netstandard2.0\PoShApiClient.Models.deps.json
+D:\GitRoot\PoShClient\PoShApiClient.Models\bin\Debug\netstandard2.0\PoShApiClient.Models.dll
+D:\GitRoot\PoShClient\PoShApiClient.Models\bin\Debug\netstandard2.0\PoShApiClient.Models.pdb
+D:\GitRoot\PoShClient\PoShApiClient.Models\obj\Debug\netstandard2.0\PoShApiClient.Models.csprojAssemblyReference.cache
+D:\GitRoot\PoShClient\PoShApiClient.Models\obj\Debug\netstandard2.0\PoShApiClient.Models.AssemblyInfoInputs.cache
+D:\GitRoot\PoShClient\PoShApiClient.Models\obj\Debug\netstandard2.0\PoShApiClient.Models.AssemblyInfo.cs
+D:\GitRoot\PoShClient\PoShApiClient.Models\obj\Debug\netstandard2.0\PoShApiClient.Models.dll
+D:\GitRoot\PoShClient\PoShApiClient.Models\obj\Debug\netstandard2.0\PoShApiClient.Models.pdb

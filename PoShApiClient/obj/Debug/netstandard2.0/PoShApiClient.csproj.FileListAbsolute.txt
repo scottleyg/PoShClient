@@ -1,0 +1,11 @@
+D:\GitRoot\PoShClient\PoShApiClient\bin\Debug\netstandard2.0\PoShApiClient.deps.json
+D:\GitRoot\PoShClient\PoShApiClient\bin\Debug\netstandard2.0\PoShApiClient.dll
+D:\GitRoot\PoShClient\PoShApiClient\bin\Debug\netstandard2.0\PoShApiClient.pdb
+D:\GitRoot\PoShClient\PoShApiClient\obj\Debug\netstandard2.0\PoShApiClient.csprojAssemblyReference.cache
+D:\GitRoot\PoShClient\PoShApiClient\obj\Debug\netstandard2.0\PoShApiClient.AssemblyInfoInputs.cache
+D:\GitRoot\PoShClient\PoShApiClient\obj\Debug\netstandard2.0\PoShApiClient.AssemblyInfo.cs
+D:\GitRoot\PoShClient\PoShApiClient\obj\Debug\netstandard2.0\PoShApiClient.dll
+D:\GitRoot\PoShClient\PoShApiClient\obj\Debug\netstandard2.0\PoShApiClient.pdb
+D:\GitRoot\PoShClient\PoShApiClient\bin\Debug\netstandard2.0\PoShApiClient.Models.dll
+D:\GitRoot\PoShClient\PoShApiClient\bin\Debug\netstandard2.0\PoShApiClient.Models.pdb
+D:\GitRoot\PoShClient\PoShApiClient\obj\Debug\netstandard2.0\PoShApiClient.csproj.CopyComplete
